@@ -2,22 +2,22 @@
 
 # NAMA ANGGOTA KELOMPOK 
 
-- Abiyanfaras Danuyasa ( 312210103 )
+- Abiyanfaras Danuyasa (312210103 )
 - Birrham Efendi Lubis ( 312210272 )
 - Najwa Iffa Fadhila ( 312210275 )
 - Hafidza Dafariz Mujizat ( 312210276)
 - Muhammad Zidan Fadillah (312210277)
 
-UNIVERSITAS PELITA BANGSA FAKULTAS TEKNIK TEKNIK INFORMATIKA TAHUN AKADEMIK 2022/2023
+ # UNIVERSITAS PELITA BANGSA FAKULTAS TEKNIK TEKNIK INFORMATIKA TAHUN AKADEMIK 2022/2023
 
-Hal yang perlu dibuat : 
-• ER-D (312210277/RO/MUHAMMAD ZIDAN FADILLAH) 
+# Hal yang perlu dibuat : 
+• ER-D (312210277 / Muhammad Zidan Fadillah) 
 
-• DDL (NAMA) 
+• DDL (312210103 / Abiyanfaras Danuyasa )
 
-• SQL CRUD (NAMA) 
-
-• SQL JOIN (NAMA)
+• SQL CRUD (312210272 / Birrham Efendi Lubis) , (312210276) / Najwa Iffa Fadhila)
+           
+• SQL JOIN (312210275) / Hafidza Dafariz Mujizat)
 
 # ERD 
 
