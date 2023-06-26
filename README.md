@@ -5,7 +5,7 @@
 - Abiyanfaras Danuyasa (312210103 )
 - Birrham Efendi Lubis ( 312210272 )
 - Najwa Iffa Fadhila ( 312210275 )
-- Hafidza Dafariz Mujizat ( 312210276)
+- Hafidza Dafariz Mujizat ( 312210276) (capt)
 - Muhammad Zidan Fadillah (312210277)
 
  # UNIVERSITAS PELITA BANGSA FAKULTAS TEKNIK TEKNIK INFORMATIKA TAHUN AKADEMIK 2022/2023
@@ -17,7 +17,7 @@
 
 • SQL CRUD (312210272 / Birrham Efendi Lubis) , (312210276) / Najwa Iffa Fadhila)
            
-• SQL JOIN (312210275) / Hafidza Dafariz Mujizat)
+• SQL JOIN (312210275) / Hafidza Dafariz Mujizat) (capt)
 
 # ERD 
 
