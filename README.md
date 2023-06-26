@@ -24,16 +24,25 @@ Hal yang perlu dibuat :
 ![gambar1](BD-GAMBAR/ERD.png)
 
 # DLL
+![gambar1](BD-GAMBAR/BD-DDL-7.png)
 
 ![gambar1](BD-GAMBAR/BD-DDL-1.png)
 
 ![gambar1](BD-GAMBAR/BD-DDL-2.png)
 
+![gambar1](BD-GAMBAR/BD-DDL-8.png)
+
 ![gambar1](BD-GAMBAR/BD-DDL-3.png)
+
+![gambar1](BD-GAMBAR/BD-DDL-9.png)
 
 ![gambar1](BD-GAMBAR/BD-DDL-4.png)
 
+![gambar1](BD-GAMBAR/BD-DDL-10.png)
+
 ![gambar1](BD-GAMBAR/BD-DDL-5.png)
+
+![gambar1](BD-GAMBAR/BD-DDL-11.png)
 
 ![gambar1](BD-GAMBAR/BD-DDL-6.png)
 
