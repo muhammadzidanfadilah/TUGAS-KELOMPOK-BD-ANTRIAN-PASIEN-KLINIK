@@ -23,7 +23,15 @@
 
 ![gambar1](BD-GAMBAR/ERD.png)
 
-# DLL
+- Disini kita langkah awal dahulu
+
+![gambar1](BD-GAMBAR/BD-7.png)
+
+  
+# DDL
+
+- Dibawah ini kita membuat DDL antrian pasien klinik yaitu alter, rename, drop, truncate 
+
 ![gambar1](BD-GAMBAR/BD-DDL-7.png)
 
 ![gambar1](BD-GAMBAR/BD-DDL-1.png)
@@ -48,6 +56,8 @@
 
 # SQL CURD
 
+- Kita mebuat curd yaitu create, update, read, delete
+
 ![gambar1](BD-GAMBAR/BD-1.png)
 
 ![gambar1](BD-GAMBAR/BD-2.png)
@@ -62,5 +72,6 @@
 
 # SQL JOIN
 
+- Disini ada join yaitu inner join, right join, left join, full join
 
 ![gambar1](BD-GAMBAR/BD-JOIN-7.png)
