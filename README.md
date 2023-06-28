@@ -30,7 +30,7 @@
   
 # DDL
 
-- Dibawah ini kita membuat DDL antrian pasien klinik yaitu alter, rename, drop, truncate 
+- Dibawah ini kita membuat DDL antrian pasien klinik yaitu alter,  drop, truncate 
 
 ![gambar1](BD-GAMBAR/BD-DDL-7.png)
 
