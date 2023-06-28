@@ -21,7 +21,7 @@
 
 # ERD 
 
-![gambar1](BD-GAMBAR/ERD.png)
+![gambar1](BD-GAMBAR/ERD.drawio.png)
 
 - Disini kita langkah awal dahulu
 
