@@ -56,7 +56,7 @@
 
 # SQL CURD
 
-- Kita mebuat curd yaitu create, update, read, delete
+- Kita mebuat curd yaitu create, insert update, read, delete
 
 ![gambar1](BD-GAMBAR/BD-1.png)
 
